@@ -1,0 +1,73 @@
+Delivered-To: coolkid23@gmail.com
+Received: by 10.200.33.232 with SMTP id 37csp238569qtz;
+        Wed, 29 Jun 2016 23:30:14 -0700 (PDT)
+X-Received: by 10.202.183.139 with SMTP id h133mr7693539oif.6.1467268214590;
+        Wed, 29 Jun 2016 23:30:14 -0700 (PDT)
+Return-Path: <pandora-support@pandora.com>
+Received:  from [95.31.18.119]
+        by mx.google.com with ESMTPS id w12si1534132otd.62.2016.06.29.23.30.13
+        for <coolkid23@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 29 Jun 2016 23:30:14 -0700 (PDT)
+Authentication-Results: None
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sg.pandora.com; 
+	h=content-type:from:mime-version:reply-to:subject:to; s=may2015; 
+	bh=TGi9tFtJUEJJxdT1+ZyV1fGLeT4=; b=JDf03NuwCuOEmP1+zyH3cm3SvMh4w
+	FCuJJj8QvacagjW0RHo63bXI1VHSTVmly7iLBxYgx1WMmIZwMMhWNJyZB1TDiqvD
+	bb0fikeAFmDdS7qOnVSyUGA4MvXOfX4lux9LLJ+cPD7nqz51Mbtdzni3htAHfBtv
+	nN3HCio2/VNuk8=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed; d=sendgrid.info; 
+	h=content-type:from:mime-version:reply-to:subject:to:x-feedback-id; 
+	s=smtpapi; bh=TGi9tFtJUEJJxdT1+ZyV1fGLeT4=; b=ALYzjV+OHRhReJ71+Z
+	E7Fh3LZTxpEP1kRI9nqTnhpr2CGoq+NA1ArpjDCXBfSrBHtIWtslxVHtsbUiKJCt
+	0h/QU/w5685u3dH/PK20DiVmwKLNqO4tjlhfJzeCo/7KYTGSN6m8FzMo6QTZgzyA
+	u7WEZvKXFJhvFRnYV/DzOc/lU=
+Received: by filter0847p1mdw1.sendgrid.net with SMTP id filter0847p1mdw1.22236.5774B9AC21
+        2016-06-30 06:18:20.531422488 +0000 UTC
+Received: from 95.31.18.119
+	by ismtpd0005p1iad1.sendgrid.net (SG) with HTTP id NYtYo_6kSXqUoL_h5w5EhA
+	for <pandora-support@pandora.com>; Thu, 30 Jun 2016 06:18:20.548 +0000 (UTC)
+Content-Type: multipart/alternative; boundary=1f1f9bced6144e1c3506c5db303498426e04bb5b707c425b25ac19a5e0bc
+X-Authentication-Warning: 95.31.18.119 claimed to be User
+Date: Thu, 30 Jun 2016 06:18:20 +0000
+From: "Pandora" <pandora-support@pandora.com>
+Mime-Version: 1.0
+Reply-to: russpy13532@yahoo.com
+Subject: Important Information Regarding your Account
+To: coolkid23@gmail.com
+Message-ID: <NYtYo_6kSXqUoL_h5w5EhA@ismtpd0005p1iad1.sendgrid.net>
+X-SG-EID: /mE79agdC87eUr9EJ0gROH4Q9t7oyaiGRjWv4uSurhoswO1JOJEysiyqjS36guWfMeqjK+zh047dWa
+ g81ra8kzdVPQeG1zSekgevrUtllaahPIr6KhOW6npe+4ukIdj/QUmAZWFeI+GJqttA/BeIu766BdK/
+ dEgOygK9uT33OkHs/1ZnAfCFrqViLqgEEhLy0ZVtxjQhengPb7A5hfR4/hH0XABiZNfNWm4D6j6es/
+ M=
+X-SG-ID: VPWZYjw6GOzHdwkwPeoX9QiEbzQXX/gF9P8njHP5+LAeUSbqTBJfAVUi0CZB4HHtyHoB2Wi45lzGnT
+ di3R0Q68c7ehzHWWOO+WEgeGvsSc06rTwvNQpRYC46uyD4e+wOXPBMP6L2PKDVhMyLwJy/CUh+eJ4C
+ ylLuiVBv2P/YVw46oZR/2sDw2KSdCuxMwr8dXwCupJQPNnAS7P4nbT1TVg==
+X-Feedback-ID: 563224:ambFXkJfqmI2tg+02Lw6ww==:8Il27lugjJwqgS0l3EqFpBjKxdWcZ4sJiNA9v/IcebU=:SG
+
+
+--1f1f9bced6144e1c3506c5db303498426e04bb5b707c425b25ac19a5e0bc
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/plain; charset=UTF-8
+Mime-Version: 1.0
+
+( http://www.pandora.com )                                                 =
+ Dear Pandora listener:       =
+ 
+As a precaution, we want to make =
+you aware of a situation that could possibly affect your Pandora account.  =
+                                                                           =
+ First off, there is no evidence that your Pandora account has been compromised or tampered with in any way.
+                                                                           =
+ However, usernames and passwords that were breached from a service other
+ than Pandora a few years ago were posted on the web recently.      =
+                                                                           =
+In order to protect Pandora Listeners, 
+our security teams have analyzed the data and found that your Pandora userna=
+me was included in the list.                                               =
+If you share passwords across services and haven't updated them recently,
+and you haven't already reset your Pandora password, you should do so now.                                     =
+Please reply to this message with your current username and password, and the new
+password you would like to set.
+                                                                           =
+                              We apologize for any inconvenience
